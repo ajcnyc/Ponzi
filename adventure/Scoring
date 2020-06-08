@@ -1,0 +1,20 @@
+visit Peter's House,1
+visit Paul's Pepperoni Pizzas: $1 slice special offer,1
+visit Dark Alleyway,1
+visit Home,1
+visit Rock Solid Investments: Executive Office,1
+visit Rock Solid Investments: Records Room,1
+drop A Dollar,Paul's Pepperoni Pizzas: $1 slice special offer,1
+description
+Paul, the owner walks up to you. Hey buddy! Where's my money? The market's
+in deep trouble and I gotta pull my money out now! Now you get me my money by 
+the end of the day bud or I'm gonna tell every other investor to pull their 
+money too.
+END
+drop Paper Shredder,Rock Solid Investments: Records Room,1
+drop Money Bag,Paul's Pepperoni Pizzas: $1 slice special offer,1
+goal West River Marina,1
+description
+You purchase the yacht and sail off into the sunset on a ride to somewhere warm
+in Europe...
+END

@@ -1,0 +1,64 @@
+ROOMS-----------------------------------------------------------
+
+Lansing CS lab
+-, Lansing math/CS lounge, -, -
+The CS lab is full of students
+hunched over computers.
+END
+Lansing math/CS lounge
+Lansing CS lab, Lansing 3rd floor hall west, -, -
+The math/CS lounge in Lansing is a place with tables,
+full of students working.
+END
+Lansing 3rd floor hall west
+Lansing math/CS lounge, -, Lansing 3rd floor hall junction, -
+You used to be able to see a cabinet full of robots 
+in this part of the hall.
+END
+Stephen Brothers Building
+-, Street, Your Boss' Office, -
+The Stephen Brothers main office is full of commotion, traders
+pacing and yelling on the phone and analysts making pitch decks
+at a break-neck speed. Frankly, it gives you a headache.
+END
+Your Boss' Office
+-, -, -, Stephen Brothers Building
+Your boss' office is wood-paneled and full of cigar smoke with 
+a taxidermied bald eagle on the wall. Your boss sits behind a
+large wooden desk.
+END
+Street
+Stephen Brothers Building, -, Home, -
+You're getting a phone call
+END
+Home
+-, -, -, Street
+You are at home
+END
+
+ITEMS--------------------------------------------------------------
+
+Canadian Express Black Card
+Home
+What on the surface may seem like a normal credit card
+is actually an economic WMD, wiping out entire bank accounts
+in a single afternoon
+END
+Item2
+Lansing 3rd floor hall west
+description 2 is the best
+END
+Item3
+Stephen Brothers Building
+No, description 3 is the 
+best
+END
+
+SCORING-------------------------------------------------------------
+
+drop <object1>, <room1>, <points1>
+visit <room1>, <points1>
+drop <object2>, <room2>, <points2>
+visit <room2>, <points2>
+goal <room>, <points>
+

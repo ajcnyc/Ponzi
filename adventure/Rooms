@@ -1,0 +1,64 @@
+Street
+Peter's House,Rock Solid Investments Lobby,Dark Alleyway,Paul's Pepperoni Pizzas: $1 slice special offer
+1
+The street is noisy and crowded
+END
+Peter's House
+-,Street,-,-
+2
+Glad to be a part of the fund
+END
+How much is it going to cost me to invest with your fund? I can do 2 million...
+what?! I can do 3, but... okay 4 million dollars. Everyone's been telling me to
+invest with you and I want in. Here take this...
+END
+Paul's Pepperoni Pizzas: $1 slice special offer
+-, -, Street, - 
+1
+Paul's is the greatest dollar pizza slice of all time. Who knows how they get
+the pizza that cheap. You sure don't know how and you definitely don't want to,
+but a slice of that pizza can change your life
+END
+Dark Alleyway
+-,-,Home,Street
+1
+A shadowy figure appears in a long coat. Hey over here... the Feds knows what
+you've been up to... if I were you I'd be terrified. I'm risking my neck to tell
+you this. You'd better get out of town and quick.. take this.
+END
+Home
+-, -, -, Dark Alleyway
+1
+You are at home
+END
+West River Marina
+-, -, Cobblestone Path, -
+1
+The air smells salty and faintly radioactive. Still the open ocean calls to you.
+You see a portly man in a hawaiian shirt selling a yacht called the Unsinkable II.
+END
+Cobblestone Path
+-, -, Rock Solid Investments Lobby, West River Marina
+1
+This path is nicely cobbled
+END
+Rock Solid Investments Lobby
+Street,Rock Solid Investments: Executive Office, -, Cobblestone Path
+1
+Cool lobby huh? The marble was a nice touch
+END
+Rock Solid Investments: Executive Office
+Rock Solid Investments Lobby, -, Rock Solid Investments: Records Room, -
+1
+What was once a vacant lot is now the home of the largest Ponzi scheme in 
+American history and your office on the 34th floor presides over it all
+END
+Rock Solid Investments: Records Room
+-, -, -, Rock Solid Investments: Executive Office
+2
+The FBI is coming, quickly get your paper shredder and then get out of the 
+building fast!
+END
+If there were any bodies, this is where they would be buried. There are also
+skeletons in the closet.
+END
